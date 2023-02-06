@@ -13,3 +13,4 @@ function changeColor() {
 
 // 2
 // Do a named export here to export both of the above functions
+export { move, changeColor };
